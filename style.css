@@ -11,8 +11,18 @@ h1{
 }
 section{
     display: flex;
-    float: left;
+    
 }
-.half-width{
-    width: 50%;
+.halp-width{
+    width: 50px;
+    padding-left: 10%;
 }
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+
